@@ -18,3 +18,4 @@ print("--------- Character Count -------")
 for item in sorted_char_count:
     print(f"{item['char']}: {item['num']}")
 print("============= END ===============")
+print()
